@@ -1,5 +1,5 @@
 # Code Book
-This dataset summerises the original data into a one dataset(bofe test and train), having the description of the activity and the id of subject, this dataset is grouped by activity and subject, having the avarege value of each measurement considered(the means and the std values).
+This dataset summerises the original data into a one dataset(bothe test and train datasets), having the description of the activity and the id of subject, this dataset is grouped by activity and subject, having the avarege value of each measurement considered(the means and the std values from the original data).
 
 #### subject
 - The subject id, domain:
