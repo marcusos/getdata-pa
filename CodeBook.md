@@ -15,7 +15,6 @@ This dataset summerises the original data into a one dataset(bofe test and train
     - LAYING
     
 #### Measurments variables
-- The avarage of the measurments by activity and subject, variables:
 - 
 [3] "tBodyAcc.mean...X"                    "tBodyAcc.mean...Y"                   
  [5] "tBodyAcc.mean...Z"                    "tBodyAcc.std...X"                    
